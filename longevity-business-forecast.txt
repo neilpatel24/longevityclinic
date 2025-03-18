@@ -1,0 +1,183 @@
+# Longevity Business Financial Forecast - Hatch End
+
+## Assumptions
+
+### Initial Investment
+- Renovation: £135,000 (midpoint of £120-150K range)
+- Equipment: All on asset finance (monthly payments included in operating expenses)
+- Initial marketing and branding: £15,000
+- Legal, permits, and licenses: £10,000
+- **Total Initial Investment: £160,000**
+
+### Revenue Assumptions
+
+#### Service Pricing
+1. Cryotherapy: £75 per session
+2. Infrared Sauna: £45 per 30-min session
+3. IV Therapy: £150 per basic session, £250 for premium formulations
+4. Infrared Face Treatments: £50 per session
+5. Membership Options:
+   - Silver (4 services/month): £225/month
+   - Gold (8 services/month): £400/month
+   - Platinum (12 services/month + priority booking): £550/month
+
+#### Capacity & Utilization
+- Operating hours: 10am-8pm weekdays, 9am-6pm weekends (66 hours/week)
+- Cryotherapy: 4 sessions per hour max capacity (1 chamber)
+- Infrared Saunas: 4 sessions per hour max capacity (2 double saunas)
+- IV Therapy: 3 sessions per hour max capacity (limited by staff)
+- Face Treatments: 2 sessions per hour max capacity
+
+**Utilization Rate Progression:**
+- Year 1: Starting at 20%, ending at 40% (30% average)
+- Year 2: Starting at 40%, ending at 60% (50% average)
+- Year 3: Stabilizing around 65%
+
+### Operating Expenses
+- Rent: £60,000 annually (£5,000 monthly)
+- Staff costs:
+  - 3 employees: £30,000 per employee annually + 20% benefits/taxes
+  - Total staff cost: £108,000 annually
+- Equipment asset finance: £3,500 monthly (£42,000 annually)
+- Utilities (high due to energy-intensive equipment): £2,000 monthly
+- Supplies (IV fluids, disposables, etc.): 20% of revenue
+- Insurance: £6,000 annually
+- Marketing: 8% of revenue (higher in year 1 at 12%)
+- Accounting/legal: £6,000 annually
+- Maintenance: £7,200 annually (increasing with equipment age)
+- Miscellaneous: £5,000 annually
+
+## Financial Forecast
+
+### Year 1
+
+#### Revenue Breakdown
+- Cryotherapy: £75 × 4 capacity × 66 hours × 52 weeks × 25% utilization = £257,400
+- Infrared Sauna: £45 × 4 capacity × 66 hours × 52 weeks × 35% utilization = £216,216
+- IV Therapy: £180 avg × 3 capacity × 66 hours × 52 weeks × 25% utilization = £231,660
+- Face Treatments: £50 × 2 capacity × 66 hours × 52 weeks × 30% utilization = £103,000
+- **Total Year 1 Revenue: £808,276**
+
+#### Expenses
+- Rent: £60,000
+- Staff: £108,000
+- Equipment finance: £42,000
+- Utilities: £24,000
+- Supplies: £161,655 (20% of revenue)
+- Insurance: £6,000
+- Marketing: £96,993 (12% of revenue)
+- Accounting/legal: £6,000
+- Maintenance: £7,200
+- Miscellaneous: £5,000
+- **Total Year 1 Expenses: £516,848**
+
+**Year 1 EBITDA: £291,428**
+**Year 1 EBITDA Margin: 36.1%**
+
+### Year 2
+
+#### Revenue Breakdown (50% average utilization, 10% price increase)
+- Cryotherapy: £82.5 × 4 capacity × 66 hours × 52 weeks × 45% utilization = £507,143
+- Infrared Sauna: £49.5 × 4 capacity × 66 hours × 52 weeks × 55% utilization = £375,309
+- IV Therapy: £198 avg × 3 capacity × 66 hours × 52 weeks × 45% utilization = £457,682
+- Face Treatments: £55 × 2 capacity × 66 hours × 52 weeks × 50% utilization = £188,760
+- **Total Year 2 Revenue: £1,528,894**
+
+#### Expenses
+- Rent: £61,800 (3% increase)
+- Staff: £111,240 (3% increase)
+- Equipment finance: £42,000
+- Utilities: £24,720 (3% increase)
+- Supplies: £305,779 (20% of revenue)
+- Insurance: £6,180 (3% increase)
+- Marketing: £122,312 (8% of revenue)
+- Accounting/legal: £6,180 (3% increase)
+- Maintenance: £9,000 (25% increase as equipment ages)
+- Miscellaneous: £5,150 (3% increase)
+- **Total Year 2 Expenses: £694,361**
+
+**Year 2 EBITDA: £834,533**
+**Year 2 EBITDA Margin: 54.6%**
+
+### Year 3
+
+#### Revenue Breakdown (65% average utilization, 5% price increase)
+- Cryotherapy: £86.6 × 4 capacity × 66 hours × 52 weeks × 65% utilization = £770,570
+- Infrared Sauna: £52 × 4 capacity × 66 hours × 52 weeks × 70% utilization = £500,698
+- IV Therapy: £208 avg × 3 capacity × 66 hours × 52 weeks × 60% utilization = £641,664
+- Face Treatments: £57.8 × 2 capacity × 66 hours × 52 weeks × 65% utilization = £257,831
+- **Total Year 3 Revenue: £2,170,763**
+
+#### Expenses
+- Rent: £63,654 (3% increase)
+- Staff: £125,000 (staffing increase to 3.5 FTE)
+- Equipment finance: £42,000
+- Utilities: £25,462 (3% increase)
+- Supplies: £434,153 (20% of revenue)
+- Insurance: £6,365 (3% increase)
+- Marketing: £173,661 (8% of revenue)
+- Accounting/legal: £6,365 (3% increase)
+- Maintenance: £11,250 (25% increase)
+- Miscellaneous: £5,305 (3% increase)
+- **Total Year 3 Expenses: £893,215**
+
+**Year 3 EBITDA: £1,277,548**
+**Year 3 EBITDA Margin: 58.9%**
+
+## Break-Even Analysis
+
+**Monthly Fixed Costs:**
+- Rent: £5,000
+- Staff: £9,000
+- Equipment finance: £3,500
+- Utilities: £2,000
+- Insurance: £500
+- Accounting/legal: £500
+- Maintenance: £600
+- Miscellaneous: £417
+- **Total Monthly Fixed Costs: £21,517**
+
+**Average Revenue Per Customer Visit:** £85
+**Average Variable Cost Per Visit:** £25 (supplies + proportional marketing)
+**Contribution Margin Per Visit:** £60
+
+**Monthly Break-Even Point:** 359 customer visits (21,517 ÷ 60)
+**Weekly Break-Even Point:** 83 customer visits
+**Daily Break-Even Point (6 days/week):** 14 customer visits
+
+## Return On Investment
+
+**Initial Investment:** £160,000
+
+**Cumulative EBITDA:**
+- Year 1: £291,428
+- Year 2: £1,125,961
+- Year 3: £2,403,509
+
+**ROI after 3 years:** 1,402% (£2,403,509 ÷ £160,000 × 100%)
+**Payback Period:** 7 months
+
+## Risk Factors
+
+1. **Utilization Assumptions:** The forecast assumes rapid customer adoption. If utilization rates are 25% lower than projected, EBITDA would decrease by approximately 35-40%.
+
+2. **Price Sensitivity:** The pricing strategy assumes customers in Hatch End will accept premium pricing. Market research should validate this assumption.
+
+3. **Competition:** New competitors entering the market could impact both utilization and pricing.
+
+4. **Equipment Downtime:** Specialized equipment failures could significantly impact revenue if replacement/repair timeframes are lengthy.
+
+5. **Regulatory Changes:** Changes in regulations around IV therapy or other treatments could impact operations.
+
+## Conclusion
+
+Based on these assumptions, the longevity business shows strong profit potential with an attractive ROI. The business could become profitable within the first year of operations, with significant profitability in years 2 and 3. The break-even point of 14 daily customers appears achievable given the service mix and target market.
+
+Key to success will be:
+- Achieving the projected utilization rates through effective marketing
+- Maintaining premium pricing strategy
+- Managing variable costs (particularly supplies)
+- Building a membership base for recurring revenue
+- Delivering exceptional customer experience to drive retention and referrals
+
+While the projections show very strong returns, a more conservative approach would be prudent for initial financial planning, perhaps assuming 20% lower utilization rates in the early months.
